@@ -1,7 +1,7 @@
-flask-restfuloauth2
-===================
+flask-logservice
+================
 
-A Flask REST endpoint protected with OAuth2.
+Log service for Flask.
 
 Installation
 ------------
@@ -12,8 +12,8 @@ distributions.
 
 .. code:: bash
 
-    git clone https://github.com/marcbperez/flask-restfuloauth2
-    cd flask-restfuloauth2
+    git clone https://github.com/marcbperez/flask-logservice
+    cd flask-logservice
     export FLASK_APP="restfuloauth2"
     export SECRET_KEY="non-production-key"
     sudo -HE ./gradlew
@@ -143,11 +143,10 @@ Gradle <https://gradle.org/install>`__.
 Troubleshooting
 ---------------
 
-The `issue
-tracker <https://github.com/marcbperez/flask-restfuloauth2/issues>`__ intends
-to manage and compile bugs, enhancements, proposals and tasks. Reading
-through its material or reporting to its contributors via the platform
-is strongly recommended.
+The `issue tracker <https://github.com/marcbperez/flask-logservice/issues>`__
+intends to manage and compile bugs, enhancements, proposals and tasks.
+Reading through its material or reporting to its contributors via the
+platform is strongly recommended.
 
 Contributing
 ------------

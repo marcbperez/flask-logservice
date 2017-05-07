@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## 0.3.1 - 2017-05-07
+
+### Fixed
+
+  - Gradle wrapper for this project.
+  - Wrong information in README files.
+
 ## 0.3.0 - 2017-05-07
 
 ### Added
