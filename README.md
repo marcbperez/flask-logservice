@@ -1,6 +1,6 @@
-# flask-restfuloauth2
+# flask-logservice
 
-A Flask REST endpoint protected with OAuth2.
+Log service for Flask.
 
 ## Installation
 
@@ -8,8 +8,8 @@ Start by downloading and building the project when necessary. The following
 commands will do the job on most Debian based Linux distributions.
 
 ```bash
-git clone https://github.com/marcbperez/flask-restfuloauth2
-cd flask-restfuloauth2
+git clone https://github.com/marcbperez/flask-logservice
+cd flask-logservice
 export FLASK_APP="restfuloauth2"
 export SECRET_KEY="non-production-key"
 sudo -HE ./gradlew
@@ -156,7 +156,7 @@ This project is created by [marcbperez][author] and maintained by its
 This project is licensed under the [Apache License Version 2.0][license].
 
 [author]: https://marcbperez.github.io
-[issue-tracker]: https://github.com/marcbperez/flask-restfuloauth2/issues
+[issue-tracker]: https://github.com/marcbperez/flask-logservice/issues
 [editorconfig]: .editorconfig
 [changelog]: CHANGELOG.md
 [license]: LICENSE
