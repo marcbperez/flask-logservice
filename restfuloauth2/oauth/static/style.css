@@ -1,0 +1,15 @@
+form {
+  text-align: center;
+}
+
+.mdl-textfield {
+  margin: 0 10px;
+}
+
+.mdl-button {
+  margin-bottom: 20px;
+}
+
+.mdl-data-table {
+  margin: auto;
+}

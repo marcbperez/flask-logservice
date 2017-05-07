@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - Test cases for python module.
+  - Log service module, database and base files.
+  - Log service model and endpoint.
+  - Static files for this module.
+
+### Fixed
+
+  - Wrong parameters in module setup script.
+
 ## 0.2.0 - 2017-05-06
 
 ### Added
